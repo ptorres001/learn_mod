@@ -1,3 +1,6 @@
-This repo was, through much effort, to make it easier to do learn labs. In a quest to be able to save work on the labs without the worry of page refresh, this project was started. Will be updated as close to daily as possible.
+This repo is the up-to-date collection of learn.co lessons. 
 
-This is a collection of jupyter notebooks about data science.
+Included are Readme's and Labs. Solutions are not included and there are no plans for the future for that to be the case.
+
+The hierarchy is:
+
